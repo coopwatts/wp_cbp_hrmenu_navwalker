@@ -1,7 +1,7 @@
 # wp_cbp_hrmenu_navwalker
-Wordpress Custom Navigation Walker for Horizontal Drop-Down Menu
-Source Code for navigation menu was taken from: <a href="https://tympanus.net/codrops/2013/03/05/horizontal-drop-down-menu/">Codrops</a>
-Walker was inspired by: <a href="https://github.com/twittem/wp-bootstrap-navwalker">Bootstrap Nav Walker</a>
+Wordpress Custom Navigation Walker for Horizontal Drop-Down Menu <br>
+Source Code for navigation menu was taken from: <a href="https://tympanus.net/codrops/2013/03/05/horizontal-drop-down-menu/">Codrops</a> <br>
+Walker was inspired by: <a href="https://github.com/twittem/wp-bootstrap-navwalker">Bootstrap Nav Walker</a><br>
 
 # Synopsis
 - Use the wp_cbp_hrmenu_navwalker to implement the Codrops Horiztontal Drop-Down Menu in your Wordpress theme.
